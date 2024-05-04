@@ -1,63 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>oskar</title>
+    <title>OskarKo</title>
     <link href="https://oskarp14.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://oskarp14.github.io/gh-pages" />
-    <updated>2024-05-02T10:09:10+02:00</updated>
+    <updated>2024-05-04T22:01:24+02:00</updated>
     <author>
-        <name>oskarp</name>
+        <name>OskarP</name>
     </author>
     <id>https://oskarp14.github.io/gh-pages</id>
 
     <entry>
-        <title>foxi</title>
+        <title>AjsaP</title>
         <author>
-            <name>oskarp</name>
+            <name>OskarP</name>
         </author>
-        <link href="https://oskarp14.github.io/gh-pages/foxi.html"/>
-        <id>https://oskarp14.github.io/gh-pages/foxi.html</id>
+        <link href="https://oskarp14.github.io/gh-pages/ajsap.html"/>
+        <id>https://oskarp14.github.io/gh-pages/ajsap.html</id>
 
-        <updated>2024-05-02T10:09:10+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>ajsa</title>
-        <author>
-            <name>oskarp</name>
-        </author>
-        <link href="https://oskarp14.github.io/gh-pages/ajsa.html"/>
-        <id>https://oskarp14.github.io/gh-pages/ajsa.html</id>
-
-        <updated>2024-05-02T10:09:05+02:00</updated>
+        <updated>2024-05-04T22:01:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    ajsa
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>ajsa</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> </p>
+<p><a href="https://www.google.com/search?q=civava+biela&amp;sca_esv=2ac440225920b4d9&amp;sca_upv=1&amp;rlz=1C1GCEU_enSK1060SK1060&amp;udm=2&amp;biw=1536&amp;bih=695&amp;sxsrf=ADLYWIIsbmNGqq9P-SU5zIm15XdnJl3EFw%3A1714852859358&amp;ei=-5M2ZsDDFdqbi-gPnIeq6AM&amp;ved=0ahUKEwiArZjc5PSFAxXazQIHHZyDCj0Q4dUDCBA&amp;uact=5&amp;oq=civava+biela&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNpdmF2YSBiaWVsYTIFEAAYgAQyBRAAGIAESMsRUMYGWOQQcAN4AJABAJgBcaAB8QiqAQM5LjO4AQPIAQD4AQGYAg-gArAJwgIHEAAYgAQYE8ICBBAjGCfCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFwgIEEAAYHsICBhAAGAgYHpgDAIgGAZIHBDEwLjWgB6ku&amp;sclient=gws-wiz-serp#vhid=xYnpWAsHyyzt-M&amp;vssid=mosaic" target="_blank" rel="noopener noreferrer">Tento pes.</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>oskar</title>
+        <title>OskarP</title>
         <author>
-            <name>oskarp</name>
+            <name>OskarP</name>
         </author>
-        <link href="https://oskarp14.github.io/gh-pages/oskar.html"/>
-        <id>https://oskarp14.github.io/gh-pages/oskar.html</id>
+        <link href="https://oskarp14.github.io/gh-pages/oskarp.html"/>
+        <id>https://oskarp14.github.io/gh-pages/oskarp.html</id>
 
-        <updated>2024-05-02T10:04:53+02:00</updated>
+        <updated>2024-05-04T21:52:04+02:00</updated>
             <summary>
                 <![CDATA[
-                    oskar
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>oskar</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             ]]>
         </content>
     </entry>

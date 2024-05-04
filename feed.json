@@ -1,53 +1,41 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "oskar",
+    "title": "OskarKo",
     "description": "",
     "home_page_url": "https://oskarp14.github.io/gh-pages",
     "feed_url": "https://oskarp14.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
-        "name": "oskarp"
+        "name": "OskarP"
     },
     "items": [
         {
-            "id": "https://oskarp14.github.io/gh-pages/foxi.html",
-            "url": "https://oskarp14.github.io/gh-pages/foxi.html",
-            "title": "foxi",
+            "id": "https://oskarp14.github.io/gh-pages/ajsap.html",
+            "url": "https://oskarp14.github.io/gh-pages/ajsap.html",
+            "title": "AjsaP",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p> </p>\n<p><a href=\"https://www.google.com/search?q=civava+biela&amp;sca_esv=2ac440225920b4d9&amp;sca_upv=1&amp;rlz=1C1GCEU_enSK1060SK1060&amp;udm=2&amp;biw=1536&amp;bih=695&amp;sxsrf=ADLYWIIsbmNGqq9P-SU5zIm15XdnJl3EFw%3A1714852859358&amp;ei=-5M2ZsDDFdqbi-gPnIeq6AM&amp;ved=0ahUKEwiArZjc5PSFAxXazQIHHZyDCj0Q4dUDCBA&amp;uact=5&amp;oq=civava+biela&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNpdmF2YSBiaWVsYTIFEAAYgAQyBRAAGIAESMsRUMYGWOQQcAN4AJABAJgBcaAB8QiqAQM5LjO4AQPIAQD4AQGYAg-gArAJwgIHEAAYgAQYE8ICBBAjGCfCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFwgIEEAAYHsICBhAAGAgYHpgDAIgGAZIHBDEwLjWgB6ku&amp;sclient=gws-wiz-serp#vhid=xYnpWAsHyyzt-M&amp;vssid=mosaic\" target=\"_blank\" rel=\"noopener noreferrer\">Tento pes.</a></p>",
             "author": {
-                "name": "oskarp"
+                "name": "OskarP"
             },
             "tags": [
             ],
-            "date_published": "2024-05-02T10:09:10+02:00",
-            "date_modified": "2024-05-02T10:09:10+02:00"
+            "date_published": "2024-05-04T22:01:24+02:00",
+            "date_modified": "2024-05-04T22:01:24+02:00"
         },
         {
-            "id": "https://oskarp14.github.io/gh-pages/ajsa.html",
-            "url": "https://oskarp14.github.io/gh-pages/ajsa.html",
-            "title": "ajsa",
-            "summary": "ajsa",
-            "content_html": "<p>ajsa</p>",
+            "id": "https://oskarp14.github.io/gh-pages/oskarp.html",
+            "url": "https://oskarp14.github.io/gh-pages/oskarp.html",
+            "title": "OskarP",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
             "author": {
-                "name": "oskarp"
+                "name": "OskarP"
             },
             "tags": [
             ],
-            "date_published": "2024-05-02T10:09:05+02:00",
-            "date_modified": "2024-05-02T10:09:05+02:00"
-        },
-        {
-            "id": "https://oskarp14.github.io/gh-pages/oskar.html",
-            "url": "https://oskarp14.github.io/gh-pages/oskar.html",
-            "title": "oskar",
-            "summary": "oskar",
-            "content_html": "<p>oskar</p>",
-            "author": {
-                "name": "oskarp"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-05-02T10:04:53+02:00",
-            "date_modified": "2024-05-02T10:04:53+02:00"
+            "date_published": "2024-05-04T21:52:04+02:00",
+            "date_modified": "2024-05-04T21:52:04+02:00"
         }
     ]
 }
