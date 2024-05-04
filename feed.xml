@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>oskar</title>
+    <link href="https://oskarp14.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://oskarp14.github.io/gh-pages" />
+    <updated>2024-05-02T10:09:10+02:00</updated>
+    <author>
+        <name>oskarp</name>
+    </author>
+    <id>https://oskarp14.github.io/gh-pages</id>
+
+    <entry>
+        <title>foxi</title>
+        <author>
+            <name>oskarp</name>
+        </author>
+        <link href="https://oskarp14.github.io/gh-pages/foxi.html"/>
+        <id>https://oskarp14.github.io/gh-pages/foxi.html</id>
+
+        <updated>2024-05-02T10:09:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ajsa</title>
+        <author>
+            <name>oskarp</name>
+        </author>
+        <link href="https://oskarp14.github.io/gh-pages/ajsa.html"/>
+        <id>https://oskarp14.github.io/gh-pages/ajsa.html</id>
+
+        <updated>2024-05-02T10:09:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ajsa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ajsa</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>oskar</title>
+        <author>
+            <name>oskarp</name>
+        </author>
+        <link href="https://oskarp14.github.io/gh-pages/oskar.html"/>
+        <id>https://oskarp14.github.io/gh-pages/oskar.html</id>
+
+        <updated>2024-05-02T10:04:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    oskar
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>oskar</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oskarp14.github.io/gh-pages/sitemap.xml
